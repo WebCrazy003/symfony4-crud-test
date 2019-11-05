@@ -6,3 +6,5 @@ How to start
 - edit .env file and add DB params
 - php bin/console doctrine:database:create
 - php bin/console doctrine:migrations:migrate
+- symfony server:start
+- go to localhost:8000
